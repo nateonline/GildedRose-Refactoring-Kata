@@ -1,0 +1,3 @@
+- Spell out Unity version (2022.3.38f1, maybe even link)
+- Show how to get to the test runner, edit mode tab
+- Show how to make VS Code select the solution file
