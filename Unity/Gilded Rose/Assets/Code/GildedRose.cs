@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class GildedRose
 {
-    IList<Item> Items;
+    List<Item> Items;
 
-    public GildedRose(IList<Item> Items)
+    public GildedRose(List<Item> Items)
     {
         this.Items = Items;
     }
